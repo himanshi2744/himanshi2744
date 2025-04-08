@@ -1,14 +1,14 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)]
 
-<h1 align="center">Hi 👋, I'm Husain Mahudawala</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h1 align="center">Hi 👋, I'm Himanshi Yaduvanshi</h1>
+<h3 align="center">A passionate AI/ML developer from India</h3>
 
 
 
 ## 🚀 About Me  
 
-Hi there! 👋 I'm **Husain Mahudawala**, a **CSE-MBA student at Nirma University**, passionate about **AI, Deep Learning, and Reinforcement Learning**.  
-I am currently exploring the intersection of **AI, Robotics, and Cybersecurity**, constantly working on innovative projects to push the boundaries of technology.  
+Hi there! 👋 I'm **Himanshi Yaduvanshi**, a **CSE-MBA student at Nirma University**, passionate about **AI, Deep Learning, and Reinforcement Learning**.  
+I am currently exploring the intersection of **AI, Robotics, and Web Development**, constantly working on innovative projects to push the boundaries of technology.  
 
 ---
 
@@ -44,9 +44,9 @@ I am currently exploring the intersection of **AI, Robotics, and Cybersecurity**
 
 ## 📫 Connect with Me  
 
-- 📧 **Email**: husain.m.offc@gmail.com  
-- 🏗️ **GitHub**: [byteers](https://github.com/byteers)  
-- 💼 **LinkedIn**: [Husain Mahudawala](https://www.linkedin.com/in/husainkmahuda/) 
+- 📧 **Email**: himanshi.yaduvanshi.27@gmail.com  
+- 🏗️ **GitHub**: [himnashiY](https://github.com/himanshi2744)  
+- 💼 **LinkedIn**: [Himanshi Yaduvanshi](https://www.linkedin.com/in/himanshi-yaduvanshi-803929345) 
 
 ---
 
@@ -54,8 +54,8 @@ I am currently exploring the intersection of **AI, Robotics, and Cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/husainkmahuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husainkmahuda" height="30" width="40" /></a>
-<a href="https://instagram.com/letsgohusain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="letsgohusain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshi-yaduvanshi-803929345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshi-yaduvanshi" height="30" width="40" /></a>
+<a href="https://instagram.com/himanshi.yaduvanshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshi.yaduvanshi_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
